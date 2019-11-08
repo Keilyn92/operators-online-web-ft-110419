@@ -1,8 +1,8 @@
 require'pry'
 def unsafe?(speed)
- if speed > 50
+ if speed > 50 
   else == speeding
-binding pry    
+#binding pry    
 end
 
 
